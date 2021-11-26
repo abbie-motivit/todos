@@ -17,7 +17,7 @@ export default {
     changeStatus() {
       // eslint-disable-next-line vue/no-mutating-props
       this.todo.completed = !this.todo.completed
-      console.log('seen')
+      console.log('some')
     }
   }
 }
